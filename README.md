@@ -43,7 +43,7 @@ Anecdotal evidence so far, shared with permission [CONFIRM each person is happy 
 | Aditya Gollamudi | His university has updated its course content and now uses Postgres in its intro to data management course. An advanced course still uses SimpleDB and Java. The database research group runs an annual open source fair, where Postgres event organisers occasionally set up a table. | [LinkedIn](https://linkedin.com) |
 | Kristo Isberg | His university in Tallinn has serious Postgres minds teaching and encouraging the use of the database. | [LinkedIn](https://linkedin.com) |
 | Mayuresh | Czech Technical University recently migrated its digital library from Oracle to PostgreSQL. | [LinkedIn](https://linkedin.com) · [CTU report](https://cvut.cz) |
-| Sara Nabih | Is candid that her university is behind. She is bringing P110 to the world as a contributor and will be part of the new Postgres Egypt meetup. [VERIFY: what "P110" refers to] | [LinkedIn](https://linkedin.com) |
+| Sara Nabih | Is candid that her university is behind. She is bringing Postgres to the world as a contributor and will be part of the new Postgres Egypt meetup. [VERIFY: what "P110" refers to] | [LinkedIn](https://linkedin.com) |
 
 **A hypothesis.** I suspect the change will start with universities migrating their own technology stacks to Postgres for the cost savings and flexibility. If academia is building on Postgres, it is reasonable to expect that to trickle down into the courses.
 
